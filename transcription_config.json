@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "output_format": "txt",
+  "temperature": 0,
+  "glossary": [],
+  "directories": {
+    "/Users/fred/Music/WhatsApp Voice Notes": {
+      "output_root": "/Users/fred/Music/Voice Transcriptions/WhatApp Voice Notes"
+    },
+    "/Users/fred/Music/DM-720 Recordings": {
+      "output_root": "/Users/fred/Music/Voice Transcriptions/DM-720 Recordings"
+    }
+  }
+}
